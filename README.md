@@ -1,5 +1,5 @@
 # online-store-sales-analysis
-In this project, I built sales analytics for an online store using three tools: SQL, Python, and Tableau.
+In this project, I analyzed online retail sales data using SQL and Python to uncover trends. I identify key acquisition drivers that contribute 36% of total sales and developed an interactive Tableau dashboard with key KPIs to enable dynamic exploration and support data-driven business decisions.
 
 Dashboard in Tableau Public: [Dashboard](https://public.tableau.com/views/SalesAnalysis_17755718162530/SalesAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
